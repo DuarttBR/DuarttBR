@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://i.postimg.cc/nzjJt2ZR/logotiporyusemfundo.png" alt="Logo Ryu Garage" width="400"/>
+  <img src="https://i.postimg.cc/nzjJt2ZR/logotiporyusemfundo.png" alt="Logo Ryu Garage" width="250"/>
 </p>
 
 <h1 align="center">Olá, sou o Bruno (Ryu / Duartt) 👋</h1>
-<h3 align="center">Desenvolvedor FiveM & GTA V Specialist</h3>
+<h3 align="center">Desenvolvedor FiveM & Fundador da Ryu Garage</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DuarttBR&style=flat-square&color=blue" alt="Profile views"/>
@@ -13,10 +13,9 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🚗 Desenvolvedor focado no ecossistema **FiveM**, com especialidade na criação e otimização de veículos.
-- 💻 Crio scripts em **Lua** para dar vida a novas funcionalidades e sistemas.
-- 🎨 Trabalho com **modelagem 3D** para customizar e garantir a performance dos veículos no jogo.
-- 🔧 Sou especialista em ajustes finos de **arquivos .meta** (handling, carvariations, etc.).
+- 💡 Sou o criador da **Ryu Garage - Store**, minha loja 100% dedicada a scripts de FiveM para veículos de GTA V.
+- 🚗 Minha especialidade é o desenvolvimento completo: da criação de scripts em **Lua** à otimização **3D**.
+- 🔧 Sou perfeccionista no ajuste de **arquivos .meta** (handling, etc.) para garantir a melhor experiência de direção.
 
 ---
 
@@ -41,7 +40,9 @@
 ### 📫 Onde me encontrar
 
 <p align="left">
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-duartt-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://discord.gg/WutjUKnpsa" target="_blank"><img src="https://img.shields.io/badge/Discord-Ryu%20Garage-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Contato-duartt-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   
   <a href="mailto:seu-email-aqui@exemplo.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
