@@ -12,9 +12,9 @@
 
 ### 👨‍💻 Sobre mim
 
-- 💡 Sou o criador da **Ryu Garage - Store**, minha loja 100% dedicada a scripts de FiveM para veículos de GTA V.
-- 🚗 Minha especialidade é o desenvolvimento completo: da criação de scripts em **Lua** à otimização **3D**.
-- 🔧 Sou perfeccionista no ajuste de **arquivos .meta** (handling, etc.) para garantir a melhor experiência de direção.
+- 🚗 **Especialista em Veículos para FiveM (3D & .meta):** Minha paixão é o ajuste fino que garante a melhor performance e experiência de direção.
+- 💻 Como **entusiasta de Lua**, desenvolvo scripts focados em aprimorar a jogabilidade veicular.
+- 💡 Todo esse trabalho culmina na **Ryu Garage - Store**, minha loja de soluções para veículos no GTA V.
 
 ---
 
@@ -22,7 +22,7 @@
 
 <p align="left">
   <a href="#"><img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"></a>
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-for-the-badge&logo=javascript&logoColor=black"></a>
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
   <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
@@ -42,6 +42,4 @@
   <a href="https://discord.gg/WutjUKnpsa" target="_blank"><img src="https://img.shields.io/badge/Discord-Ryu%20Garage-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Contato-duartt-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  
-  <a href="mailto:seu-email-aqui@exemplo.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
