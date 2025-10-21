@@ -30,9 +30,15 @@ Como Desenvolvedor de Veículos (Car Dev) para FiveM, atuei e atuo em diversos s
   <li>🌀 <strong>Fluxo Roleplay</strong> (Desde 2023 - Atualmente)</li>
 </ul>
 
-**Outras Experiências (Freelance e Anteriores):**
+**Servidores Anteriores (Dev Fixo):**
+<ul>
+  <li>1️⃣ <strong>One Roleplay</strong> (2023)</li>
+  <li>👾 <strong>ONE Pixels Roleplay</strong></li>
+</ul>
+
+**Trabalhos Freelance (Para Jogadores):**
 <p align="left">
-Também realizei trabalhos para servidores como <strong>One Roleplay</strong> (2023), <strong>Rise RP</strong>, <strong>BH RP</strong> e <strong>Capital RP</strong>.
+Realizei trabalhos pontuais para clientes/jogadores privados em servidores como <strong>Rise RP</strong>, <strong>BH RP</strong> e <strong>Capital RP</strong>.
 </p>
 
 ---
