@@ -58,4 +58,7 @@ Realizei trabalhos pontuais para clientes/jogadores privados em servidores como 
 ### 📫 Onde me encontrar
 
 <p align="left">
-  <a href="
+  <a href="https://discord.gg/WutjUKnpsa" target="_blank"><img src="https://img.shields.io/badge/Discord-Ryu%20Garage-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Contato-duartt-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+</p>
