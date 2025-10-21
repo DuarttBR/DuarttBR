@@ -33,7 +33,7 @@ Como Desenvolvedor de Veículos (Car Dev) para FiveM, atuei e atuo em diversos s
 **Servidores Anteriores (Dev Fixo):**
 <ul>
   <li>1️⃣ <strong>One Roleplay</strong> (2023)</li>
-  <li>👾 <strong>ONE Pixels Roleplay</strong></li>
+  <li>👾 <strong>ONE Pixels Roleplay</strong> (2023)</li>
 </ul>
 
 **Trabalhos Freelance (Para Jogadores):**
