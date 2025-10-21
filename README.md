@@ -26,14 +26,14 @@ Como Desenvolvedor de Veículos (Car Dev) para FiveM, atuei e atuo em diversos s
 
 **Servidores Principais (Atuais):**
 <ul>
-  <li>🏝️ <strong>Long Beach Roleplay</strong> (Inicio em 2025 - Atualmente)</li>
-  <li>🌀 <strong>Fluxo Roleplay</strong> (Desde 2023 - Atualmente)</li>
+  <li>🏝️ <strong>Long Beach Roleplay</strong> (Inicio em 2025 - Atualmente)</li>
+  <li>🌀 <strong>Fluxo Roleplay</strong> (Desde 2023 - Atualmente)</li>
 </ul>
 
 **Servidores Anteriores (Dev Fixo):**
 <ul>
-  <li>1️⃣ <strong>One Roleplay</strong> (2023)</li>
-  <li>👾 <strong>ONE Pixels Roleplay</strong> (2023)</li>
+  <li>1️⃣ <strong>One Roleplay</strong> (2023)</li>
+  <li>👾 <strong>ONE Pixels Roleplay</strong> (2023)</li>
 </ul>
 
 **Trabalhos Freelance (Para Jogadores):**
@@ -51,7 +51,9 @@ Realizei trabalhos pontuais para clientes/jogadores privados em servidores como 
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
   
   <br>
-
+  
+  <a href="#"><img alt="Blender" src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white"></a>
+  <a href="#"><img alt="ZModeler 3" src="https://img.shields.io/badge/ZModeler_3-1272C2?style=for-the-badge&logoColor=white"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
