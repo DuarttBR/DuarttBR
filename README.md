@@ -22,14 +22,14 @@ Como Desenvolvedor de Veículos (Car Dev) para FiveM, atuei e atuo em diversos s
 
 **Servidores Principais (Atuais):**
 <ul>
-  <li>🏝️ <strong>Long Beach Roleplay</strong> (Inicio em 2025 - Atualmente)</li>
-  <li>🌀 <strong>Fluxo Roleplay</strong> (Desde 2023 - Atualmente)</li>
+  <li>🏝️ <strong>Long Beach Roleplay</strong> (Inicio em 2025 - Atualmente)</li>
+  <li>🌀 <strong>Fluxo Roleplay</strong> (Desde 2023 - Atualmente)</li>
 </ul>
 
 **Servidores Anteriores (Dev Fixo):**
 <ul>
-  <li>1️⃣ <strong>One Roleplay</strong> (2023)</li>
-  <li>👾 <strong>ONE Pixels Roleplay</strong> (2023)</li>
+  <li>1️⃣ <strong>One Roleplay</strong> (2023)</li>
+  <li>👾 <strong>ONE Pixels Roleplay</strong> (2023)</li>
 </ul>
 
 **Trabalhos Freelance (Para Jogadores):**
