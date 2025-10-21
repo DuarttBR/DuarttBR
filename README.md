@@ -4,10 +4,6 @@
 </p>
 <h3 align="center">Desenvolvedor FiveM & Fundador da Ryu Garage</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DuarttBR&style=flat-square&color=blue" alt="Profile views"/>
-</p>
-
 ---
 
 ### 👨‍💻 Sobre mim
@@ -49,11 +45,9 @@ Realizei trabalhos pontuais para clientes/jogadores privados em servidores como 
   <a href="#"><img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"></a>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
-  
   <br>
-  
-  <a href="#"><img alt="Blender" src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white"></a>
-  <a href="#"><img alt="ZModeler 3" src="https://img.shields.io/badge/ZModeler_3-1272C2?style=for-the-badge&logoColor=white"></a>
+  <a href="#"><img alt="Blender" src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white"></a>
+  <a href="#"><img alt="ZModeler 3" src="https://img.shields.io/badge/ZModeler_3-1272C2?style=for-the-badge&logoColor=white"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
@@ -64,7 +58,4 @@ Realizei trabalhos pontuais para clientes/jogadores privados em servidores como 
 ### 📫 Onde me encontrar
 
 <p align="left">
-  <a href="https://discord.gg/WutjUKnpsa" target="_blank"><img src="https://img.shields.io/badge/Discord-Ryu%20Garage-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Contato-duartt-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-</p>
+  <a href="
