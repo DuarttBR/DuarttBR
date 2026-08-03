@@ -10,7 +10,7 @@
 
 - 🚗 **Especialista em Veículos para FiveM (3D & .meta):** Minha paixão é o ajuste fino que garante a melhor performance, aparência e experiência de direção.
 - 💻 Como **entusiasta de Lua**, desenvolvo scripts focados exclusivamente em **aprimorar a jogabilidade veicular**.
-- 💡 Todo esse trabalho culmina na **[Ryu Garage - Store](https://www.ryugarage.store/)**, minha loja de soluções especializadas para GTA V.
+- 💡 Todo esse trabalho culmina na **[Ryu Garage - Store](https://www.ryugarage.com/)**, minha loja de soluções especializadas para GTA V.
 
 ---
 
@@ -52,7 +52,7 @@ Como Desenvolvedor de Veículos (Car Dev) para FiveM, atuo em diversos servidore
 ### 📫 Onde me encontrar
 
 <p align="left">
-  <a href="https://www.ryugarage.store/" target="_blank">
+  <a href="https://www.ryugarage.com/" target="_blank">
     <img src="https://img.shields.io/badge/Website-Ryu%20Garage-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website Ryu Garage">
   </a>
   <a href="https://discord.gg/WutjUKnpsa" target="_blank">
